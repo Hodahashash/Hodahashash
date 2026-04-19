@@ -9,4 +9,4 @@ Building production-ready ML systems with focus on Arabic language AI and scalab
 
 **Stack:** Python | PyTorch | SQL | AWS | Docker | FastAPI | LangChain
 
-[LinkedIn] | [Email] | [Portfolio/Notion/Blog]
+[www.linkedin.com/in/hoda-hashash] | [HodaAlhashash@hotmail.com] 
